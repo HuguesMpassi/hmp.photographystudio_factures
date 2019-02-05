@@ -1,0 +1,83 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+    margin: 5px;
+    border: 1px solid;
+}
+
+
+img{
+    width: 40px;
+}
+
+.contenaire0{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+.contenaire1{
+display: flex;
+justify-content: flex-start;
+margin-left: 5%;
+}
+
+.contenaire2{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5%;
+    }
+
+    .contenaire3{
+        display: flex;
+        justify-content: flex-start;
+        margin-left: 5%;
+        margin-bottom: 5%;
+        }    
+
+.adressehmp{
+text-align: justify;
+border: 1px solid black;
+width: 250px;
+margin-bottom: 2%;
+padding: 10px;
+}
+
+.adresseclient{
+    text-align: justify;
+    border: 1px solid black;
+    width: 250px;
+    align-content: flex-end;
+    padding: 10px;
+}
+.close{
+    text-align: center;
+}
+
+footer{
+    width: 80%;
+margin-top: 10%;
+margin-left: 10%;
+text-align: center;
+color: gainsboro;
+}
+
+table{
+    border: 1px solid;
+    margin-bottom: 10%;
+    width: 90%;
+    text-align: center;
+    margin-left: 5%;
+}
+
+td, th{
+    border:1px solid;
+}
+
+th{
+    background-color: rgba(151, 161, 170, 0.438)
+}
